@@ -1,0 +1,26 @@
+.header-nav{
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    align-items: center;
+    padding: 30px;
+    margin: 10px;
+}
+.ul-cont{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    margin-right: 307px;
+    text-decoration: none;
+    height: 150px;
+    align-items: center;
+}
+.li-cont{
+    text-transform: none;
+ 
+}
+.header-image{
+    height: 80px;
+    width: 150px;
+    border-radius: 20px;
+}
